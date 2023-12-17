@@ -12,8 +12,11 @@ This chat bot model, is trained on the behalf of the data put in it.
 Technology Used 
 
 LangChain CSVLoaders
+
 LangChain VectorstoreIndexCreator
+
 LangChain RetrievalQA
+
 OpenAI
 
 Language Used - Python
