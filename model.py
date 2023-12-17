@@ -4,7 +4,7 @@ from langchain.chains import RetrievalQA
 from langchain.llms import OpenAI
 import os
 
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = "###########################"
 
 loader = CSVLoader(file_path = 'data.csv')
 
